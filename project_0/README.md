@@ -33,7 +33,7 @@
 ### Краткая информация о данных
 ....
   
-:arrow_up:[к оглавлению](.https://github.com/TimTrue/Tim_SK/blob/main/project_0/README.md#оглавление)
+:arrow_up:[к оглавлению](https://github.com/TimTrue/Tim_SK/blob/main/project_0/README.md#оглавление)
 
 
 ### Этапы работы над проектом  
