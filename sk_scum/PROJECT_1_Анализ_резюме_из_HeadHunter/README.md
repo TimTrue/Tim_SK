@@ -24,7 +24,7 @@
 
 
 ### Краткая информация о данных
-Данные расположен на Google Диск https://drive.google.com/file/d/194GeW7OgQNt-NX0DnwygoczSr1Q3YCNS/view?usp=sharing
+Данные расположены на Google Диск https://drive.google.com/file/d/194GeW7OgQNt-NX0DnwygoczSr1Q3YCNS/view?usp=sharing
   
 :arrow_up:[к оглавлению](https://github.com/TimTrue/Tim_SK/blob/main/project_0/README.md#оглавление)
 
