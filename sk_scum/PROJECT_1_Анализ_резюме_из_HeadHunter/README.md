@@ -36,31 +36,36 @@
 3. разведывательный анализ
 4. очистка данных
 
-Потсановка и решения для каждого этапа (https://github.com/TimTrue/Tim_SK/blob/main/sk_scum/PROJECT_1_%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5_%D0%B8%D0%B7_HeadHunter/Project-1.ipynb)
+Потсановка и решения для каждого этапа представлены в ноутбуке:
+https://github.com/TimTrue/Tim_SK/blob/main/sk_scum/PROJECT_1_%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5_%D0%B8%D0%B7_HeadHunter/Project-1.ipynb
 
 :arrow_up:[к оглавлению](https://github.com/TimTrue/Tim_SK/blob/main/project_0/README.md#оглавление)
 
 
 ### Результаты:  
-Результаты (https://github.com/TimTrue/Tim_SK/blob/main/sk_scum/PROJECT_1_%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5_%D0%B8%D0%B7_HeadHunter/Project-1.ipynb)
+Результаты представлены в ноутбуке: 
+https://github.com/TimTrue/Tim_SK/blob/main/sk_scum/PROJECT_1_%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5_%D0%B8%D0%B7_HeadHunter/Project-1.ipynb
 
 :arrow_up:[к оглавлению](https://github.com/TimTrue/Tim_SK/blob/main/project_0/README.md#оглавление)
 
 Ссылки на графики:
 1. Постройте распределение признака "Возраст":
 
-a. [гистограмма](https://github.com/TimTrue/Tim_SK/blob/main/sk_scum/PROJECT_1_%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5_%D0%B8%D0%B7_HeadHunter/plots/histogram_age.html)
-b. [коробчатая диаграмма](https://github.com/TimTrue/Tim_SK/blob/main/sk_scum/PROJECT_1_%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5_%D0%B8%D0%B7_HeadHunter/plots/box_age.html)
+    a. [гистограмма](https://github.com/TimTrue/Tim_SK/blob/main/sk_scum/PROJECT_1_%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5_%D0%B8%D0%B7_HeadHunter/plots/histogram_age.html)
+
+    b. [коробчатая диаграмма](https://github.com/TimTrue/Tim_SK/blob/main/sk_scum/PROJECT_1_%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5_%D0%B8%D0%B7_HeadHunter/plots/box_age.html)
 
 2. Постройте распределение признака "Опыт работы (месяц)":
 
-a. [гистограмма](https://github.com/TimTrue/Tim_SK/blob/main/sk_scum/PROJECT_1_%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5_%D0%B8%D0%B7_HeadHunter/plots/histogram_exp.html)
-b. [коробчатая диаграмма](https://github.com/TimTrue/Tim_SK/blob/main/sk_scum/PROJECT_1_%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5_%D0%B8%D0%B7_HeadHunter/plots/box_exp.html)
+    a. [гистограмма](https://github.com/TimTrue/Tim_SK/blob/main/sk_scum/PROJECT_1_%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5_%D0%B8%D0%B7_HeadHunter/plots/histogram_exp.html)
+
+    b. [коробчатая диаграмма](https://github.com/TimTrue/Tim_SK/blob/main/sk_scum/PROJECT_1_%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5_%D0%B8%D0%B7_HeadHunter/plots/box_exp.html)
 
 3. Постройте распределение признака "ЗП (руб)":
 
-a. [гистограмма](https://github.com/TimTrue/Tim_SK/blob/main/sk_scum/PROJECT_1_%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5_%D0%B8%D0%B7_HeadHunter/plots/histogram_sal.html)
-b. [коробчатая диаграмма](https://github.com/TimTrue/Tim_SK/blob/main/sk_scum/PROJECT_1_%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5_%D0%B8%D0%B7_HeadHunter/plots/box_sal.html)
+    a. [гистограмма](https://github.com/TimTrue/Tim_SK/blob/main/sk_scum/PROJECT_1_%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5_%D0%B8%D0%B7_HeadHunter/plots/histogram_sal.html)
+
+    b. [коробчатая диаграмма](https://github.com/TimTrue/Tim_SK/blob/main/sk_scum/PROJECT_1_%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5_%D0%B8%D0%B7_HeadHunter/plots/box_sal.html)
 
 4. [Постройте диаграмму, которая показывает зависимость медианной желаемой заработной платы ("ЗП (руб)") от уровня образования ("Образование")](https://github.com/TimTrue/Tim_SK/blob/main/sk_scum/PROJECT_1_%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5_%D0%B8%D0%B7_HeadHunter/plots/bar_sal_ed.html)
 
@@ -74,11 +79,12 @@ b. [коробчатая диаграмма](https://github.com/TimTrue/Tim_SK/b
 
 9. Постройте еще два любых содержательных графика или диаграммы, которые помогут проиллюстрировать влияние взаимосвязей между признаками.
 
-a. [График](https://github.com/TimTrue/Tim_SK/blob/main/sk_scum/PROJECT_1_%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5_%D0%B8%D0%B7_HeadHunter/plots/heatmap_sal_sched_age.html)
+    a. [График](https://github.com/TimTrue/Tim_SK/blob/main/sk_scum/PROJECT_1_%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5_%D0%B8%D0%B7_HeadHunter/plots/heatmap_sal_sched_age.html)    
 
-b. [График](https://github.com/TimTrue/Tim_SK/blob/main/sk_scum/PROJECT_1_%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5_%D0%B8%D0%B7_HeadHunter/plots/heatmap_sal_gender_age.html)
+    b. [График](https://github.com/TimTrue/Tim_SK/blob/main/sk_scum/PROJECT_1_%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5_%D0%B8%D0%B7_HeadHunter/plots/heatmap_sal_gender_age.html)
 
 ### Выводы:  
-Все выводы представлены в ноутбуке(https://github.com/TimTrue/Tim_SK/blob/main/sk_scum/PROJECT_1_%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5_%D0%B8%D0%B7_HeadHunter/Project-1.ipynb)
+Все выводы представлены в ноутбуке:
+https://github.com/TimTrue/Tim_SK/blob/main/sk_scum/PROJECT_1_%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5_%D0%B8%D0%B7_HeadHunter/Project-1.ipynb
 
 :arrow_up:[к оглавлению](https://github.com/TimTrue/Tim_SK/blob/main/project_0/README.md#оглавление)
